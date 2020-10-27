@@ -1,0 +1,19 @@
+{
+    "config": {
+      "url": "http://localhost:5000/graphql",
+      "name": "Testing dhamaka develop",
+      "selectedQueries": ["category"],
+      "queryFile": true,
+    
+      "duration": 5,
+      "arrivalRate": 10
+      
+      
+    },
+    "args": {
+   
+      "category": {
+        "_id":"5dd3766406f9565e3c7c7895"
+      }
+    }
+  }
